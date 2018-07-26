@@ -10,8 +10,8 @@ def get_name
 end
 end
 
-person1 = Person.new("adele_goldberg")
-person2 = Person.new("alan_key")
+person1 = Person.new("adele goldberg")
+person2 = Person.new("alan key")
 
 puts person1.get_name
 puts person2.get_name
