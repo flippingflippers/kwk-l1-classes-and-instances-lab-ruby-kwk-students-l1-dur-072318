@@ -8,7 +8,7 @@ def get_name
 end
 end
   
-dog1 = Dog.new("fido")
+fido = Dog.new("fido")
 dog2 = Dog.new("Snoopy")
 dog3 = Dog.new("Lassie")
 
