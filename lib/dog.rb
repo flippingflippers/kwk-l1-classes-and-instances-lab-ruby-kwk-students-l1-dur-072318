@@ -13,7 +13,7 @@ snoopy = Dog.new("snoopy")
 lassie = Dog.new("lassie")
 
 puts fido.get_name
-puts dog2.get_name
-puts dog3.get_name
+puts snoopy.get_name
+puts lassie.get_name
 
 
