@@ -10,3 +10,5 @@ def get_name
 end
 end
 
+person1
+person2
