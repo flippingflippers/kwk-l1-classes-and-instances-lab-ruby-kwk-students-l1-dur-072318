@@ -10,8 +10,8 @@ def get_name
 end
 end
 
-adele goldberg = Person.new("adele goldberg")
-alan key = Person.new("alan key")
+adele_goldberg = Person.new("adele goldberg")
+alan_key = Person.new("alan key")
 
-puts adele goldberg.get_name
-puts alan key.get_name
+puts adele_goldberg.get_name
+puts alan_key.get_name
