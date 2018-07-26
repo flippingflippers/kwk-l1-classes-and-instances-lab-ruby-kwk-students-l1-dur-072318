@@ -15,3 +15,5 @@ dog3 = Dog.new("Lassie")
 puts dog1.get_name
 puts dog2.get_name
 puts dog3.get_name
+
+
