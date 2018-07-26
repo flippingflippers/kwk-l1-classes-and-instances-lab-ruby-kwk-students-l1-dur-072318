@@ -2,7 +2,6 @@
 class Dog 
   def initialize(name)
     @name = name
-  end
 end
 def get_name
   return @name
