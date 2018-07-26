@@ -4,3 +4,6 @@ class Dog
     @name = name
   end
   
+dog1
+dog2
+dog3
