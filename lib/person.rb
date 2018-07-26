@@ -5,4 +5,7 @@ def initialize(name)
 end
 
 def get_name
-  
+  return @name
+end
+end
+
