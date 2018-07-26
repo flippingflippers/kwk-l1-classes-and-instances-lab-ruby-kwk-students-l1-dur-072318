@@ -4,7 +4,9 @@ class Dog
     @name = name
   end
 end
-def name
+def get_name
+  return @name
+end
   
 dog1 = Dog.new("Fido")
 dog2 = Dog.new("Snoopy")
