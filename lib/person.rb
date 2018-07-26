@@ -10,5 +10,5 @@ def get_name
 end
 end
 
-person1 = 
+person1 = Person
 person2 = 
