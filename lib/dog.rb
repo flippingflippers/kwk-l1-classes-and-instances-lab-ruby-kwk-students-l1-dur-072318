@@ -1,1 +1,3 @@
-# dog.rb
+# dog.rb 
+class Dog 
+  def initialize
