@@ -1,3 +1,4 @@
 # person.rb
 
-def person
+def initialize(name)
+  
