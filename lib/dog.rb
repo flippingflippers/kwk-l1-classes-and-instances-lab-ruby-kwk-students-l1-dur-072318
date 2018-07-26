@@ -9,8 +9,8 @@ end
 end
   
 fido = Dog.new("fido")
-dog2 = Dog.new("Snoopy")
-dog3 = Dog.new("Lassie")
+snoopy = Dog.new("snoopy")
+lassie = Dog.new("lassie")
 
 puts fido.get_name
 puts dog2.get_name
