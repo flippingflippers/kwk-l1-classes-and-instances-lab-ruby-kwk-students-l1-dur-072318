@@ -4,6 +4,6 @@ class Dog
     @name = name
   end
   
-dog1
-dog2
-dog3
+dog1 = Dog.new
+dog2 = Dog.new
+dog3 = Dog.new
