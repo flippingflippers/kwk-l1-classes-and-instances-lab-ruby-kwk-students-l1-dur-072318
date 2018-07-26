@@ -11,7 +11,7 @@ end
 end
 
 adele_goldberg = Person.new("adele_goldberg")
-# alan_key = Person.new("alan_key")
+# alan_kay = Person.new("alan_kay")
 
 # puts adele_goldberg.get_name
 # puts alan_key.get_name
